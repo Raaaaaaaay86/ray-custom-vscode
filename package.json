@@ -1,0 +1,46 @@
+{
+  "name": "ray-custom-vscode",
+  "displayName": "ray-custom-vscode",
+  "description": "My daily development extensions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "adamhartford.vscode-base64", 
+    "akamud.vscode-theme-onedark", 
+    "cweijan.vscode-redis-client", 
+    "eamodio.gitlens", 
+    "formulahendry.vscode-mysql", 
+    "GitHub.copilot", 
+    "golang.go", 
+    "Kleysley.intellij-theme-cpp", 
+    "maxnatchanon.go-struct-tag-autogen", 
+    "mikestead.dotenv", 
+    "ms-azuretools.vscode-docker", 
+    "ms-vscode.live-server", 
+    "ms-vscode.powershell", 
+    "nhoizey.gremlins", 
+    "oderwat.indent-rainbow", 
+    "rangav.vscode-thunder-client", 
+    "redhat.java", 
+    "redhat.vscode-yaml", 
+    "ricardoerikson.vscode-go-impl-methods", 
+    "rohinivsenthil.rabbitrace", 
+    "Shinotatwu-DS.file-tree-generator", 
+    "streetsidesoftware.code-spell-checker", 
+    "usernamehw.errorlens", 
+    "VisualStudioExptTeam.intellicode-api-usage-examples", 
+    "VisualStudioExptTeam.vscodeintellicode", 
+    "vscjava.vscode-java-debug", 
+    "vscjava.vscode-java-dependency", 
+    "vscjava.vscode-java-pack", 
+    "vscjava.vscode-java-test", 
+    "vscjava.vscode-maven", 
+    "vscodevim.vim"
+  ]
+}
